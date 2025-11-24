@@ -1,0 +1,5 @@
+{
+  "name": "GPU Nexus: 架构与原理",
+  "description": "通过 Gemini AI 实时讲解，交互式探索 GPU 内部架构、渲染管线和并行处理原理。",
+  "requestFramePermissions": []
+}
